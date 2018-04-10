@@ -53,6 +53,7 @@ img {
   padding: 3rems;
   background-color:green; 
   text-align:center
+  width: 25%;
 }
 
 .document-history p {
@@ -61,7 +62,7 @@ img {
 
 .amendment-body {
   text-align: center;
-  width: 110%;
+  width: 30%;
   
 }
 
