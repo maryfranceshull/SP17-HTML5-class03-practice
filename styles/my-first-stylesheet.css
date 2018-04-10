@@ -1,5 +1,5 @@
 /* 16px == 1rem */
-html { font-size: 16px; }
+/* html { font-size: 16px; }
 
 img {
   width: 25%
@@ -28,7 +28,7 @@ img {
 }
 
 /* nested selector -- selects <p> inside .document-history */
-.document-history p {
+/*.document-history p {
   width: 50%;
 }
 
@@ -42,4 +42,29 @@ img {
 
 .highlight {
   background-color: salmon;
+}
+*/
+.document-history {
+  background-color:aqua;
+  height: 3rems;
+}
+
+.amendment-body {
+  padding: 3rems;
+  background-color:green; 
+  text-align:center
+}
+
+.document-history p {
+  font-family: Times;
+}
+
+.amendment-body {
+  text-align: center;
+  width: 110%;
+  
+}
+
+img {
+  width: 25%
 }
